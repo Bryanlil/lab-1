@@ -1,0 +1,84 @@
+1. Java language. Features of the language.
+here we have some of javas features:
+Platform Independent
+Portable
+Architectural Neutral
+Object-Oriented
+
+It is used for:
+Mobile applications (specially Android apps)
+Desktop applications
+Web applications
+
+Java is an object oriented language which gives a clear structure to programs and allows code to be reused
+also Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+
+
+2. Development tools. JDKs and JREs.
+
+JDK(Java Development Kit) is used to develop Java applications. 
+the JDK is a package of tools for developing Java-based software, 
+1
+JRE(Java Runtime Environment)
+ the JRE is a package of tools for running Java code.
+
+
+3. Primitive data types in Java.
+
+Primitive types are the most basic data types available within the Java language. There are 8: boolean, byte, char, short, int, long, float and double
+
+
+
+4. Working with variables. Declaration. Initialization. Assignment.
+
+Variables are containers for storing data values.
+
+In Java, there are different types of variables, for example:
+
+String - stores text, such as "Hello". String values are surrounded by double quotes
+int - stores integers (whole numbers), without decimals, such as 123 or -123
+To create a variable, you must specify the type and assign it a value:
+
+Syntax
+type variableName = value;
+
+String name = "John";
+System.out.println(name);
+
+
+String firstName = "John ";
+String lastName = "Doe";
+String fullName = firstName + lastName;
+System.out.println(fullName);
+
+
+5. Branching and looping instructions.
+
+
+Branching is conditions. If condition then do something; else do something else
+
+Looping is running a block of code till a condition is no longer satisfied
+
+
+6. Operators and expressions in Java. Features of calculation, priorities of operations.
+
+
+
+7. Math functions in the Java standard library. class java.lang.Math.
+
+
+Math library in Java has many functions
+min, max, sin, cos, tan
+
+
+8. Formatted output of numeric data.
+
+formatted output java
+
+use printf
+
+ printf() is a method can be used to print formatted output in java.
+
+
+
+'
